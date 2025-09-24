@@ -1,0 +1,52 @@
+{
+  "term": "January IAP",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Finance"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "4936e226-fe85-c86b-482a-e8d096ad1b5b",
+  "instructors": {
+    "content": [
+      "0081e7a0-4eb6-d86e-0bf8-6a76040ad724"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "51ff79f1-c0bf-3b21-76d0-311d6d424b2c",
+    "website": "14-09-financial-crises-january-iap-2016"
+  },
+  "course_title": "Financial Crises",
+  "course_description": "This course is an introduction to the economic theories of financial crises. It focuses on amplification mechanisms that exacerbate crises, such as leverage, fire sales, bank runs, interconnections, and complexity. It also analyzes the different perspectives on the origins of crises, such as mistaken beliefs and moral hazard, and discusses the optimal regulation of the financial system. The course draws upon examples from financial crises around the world, especially the recent subprime financial crisis.\n\n14.09 is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.09",
+  "course_image_thumbnail": {
+    "content": "156325ce-275c-5ab5-5805-15a23bae9273",
+    "website": "14-09-financial-crises-january-iap-2016"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams"
+  ],
+  "site_uid": "fda45f1e-f3fd-4581-a12e-46f62841d101",
+  "site_short_id": "14.09-january-iap-2016",
+  "site_url_path": "courses/14-09-financial-crises-january-iap-2016",
+  "title": "Course Metadata"
+}
